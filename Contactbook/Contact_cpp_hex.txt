@@ -1,0 +1,32 @@
+0000	23 69 6e 63 6c 75 64 65  22 43 6f 6e 74 61 63 74   #include"Contact
+0010	2e 68 22 0d 0a 23 69 6e  63 6c 75 64 65 3c 69 6f   .h"..#include<io
+0020	73 74 72 65 61 6d 3e 0d  0a 76 6f 69 64 20 73 68   stream>..void sh
+0030	6f 77 4d 65 6e 75 28 29  20 7b 0d 0a 09 73 74 64   owMenu() {...std
+0040	3a 3a 63 6f 75 74 3c 3c  22 5c 6e 3d 3d 3d 3d 3d   ::cout<<"\n=====
+0050	e9 80 9a e8 ae af e5 bd  95 e7 b3 bb e7 bb 9f 3d   ...............=
+0060	3d 3d 3d 3d 22 20 3c 3c  20 73 74 64 3a 3a 65 6e   ====" << std::en
+0070	64 6c 3b 0d 0a 09 73 74  64 3a 3a 63 6f 75 74 3c   dl;...std::cout<
+0080	3c 22 31 2e e6 b7 bb e5  8a a0 e8 81 94 e7 b3 bb   <"1.............
+0090	e4 ba ba 22 3c 3c 73 74  64 3a 3a 65 6e 64 6c 3b   ..."<<std::endl;
+00a0	0d 0a 09 73 74 64 3a 3a  63 6f 75 74 3c 3c 22 32   ...std::cout<<"2
+00b0	2e e6 98 be e7 a4 ba e6  89 80 e6 9c 89 e8 81 94   ................
+00c0	e7 b3 bb e4 ba ba 22 3c  3c 73 74 64 3a 3a 65 6e   ......"<<std::en
+00d0	64 6c 3b 0d 0a 09 73 74  64 3a 3a 63 6f 75 74 3c   dl;...std::cout<
+00e0	3c 22 30 2e e9 80 80 e5  87 ba 22 3c 3c 73 74 64   <"0......."<<std
+00f0	3a 3a 65 6e 64 6c 3b 0d  0a 09 73 74 64 3a 3a 63   ::endl;...std::c
+0100	6f 75 74 3c 3c 22 3d 3d  3d 3d 3d 3d 3d 3d 3d 3d   out<<"==========
+0110	3d 3d 3d 3d 3d 3d 3d 3d  3d 3d 3d 3d 22 3c 3c 73   ============"<<s
+0120	74 64 3a 3a 65 6e 64 6c  3b 0d 0a 7d 0d 0a 0d 0a   td::endl;..}....
+0130	76 6f 69 64 20 61 64 64  43 6f 6e 74 61 63 74 28   void addContact(
+0140	29 20 7b 0d 0a 09 73 74  64 3a 3a 63 6f 75 74 3c   ) {...std::cout<
+0150	3c 22 5b e5 8a 9f e8 83  bd e6 9a 82 e6 9c aa e5   <"[.............
+0160	ae 9e e7 8e b0 5d e5 87  86 e5 a4 87 e6 b7 bb e5   .....]..........
+0170	8a a0 e8 81 94 e7 b3 bb  e4 ba ba 2e 2e 2e 22 3c   .............."<
+0180	3c 73 74 64 3a 3a 65 6e  64 6c 3b 0d 0a 7d 0d 0a   <std::endl;..}..
+0190	0d 0a 76 6f 69 64 20 73  68 6f 77 41 6c 6c 43 6f   ..void showAllCo
+01a0	6e 74 61 63 74 73 28 29  7b 0d 0a 09 73 74 64 3a   ntacts(){...std:
+01b0	3a 63 6f 75 74 3c 3c 22  5b e5 8a 9f e8 83 bd e6   :cout<<"[.......
+01c0	9a 82 e6 9c aa e5 ae 9e  e7 8e b0 5d e5 87 86 e5   ...........]....
+01d0	a4 87 e6 98 be e7 a4 ba  e8 81 94 e7 b3 bb e4 ba   ................
+01e0	ba 2e 2e 2e 22 3c 3c 73  74 64 3a 3a 65 6e 64 6c   ...."<<std::endl
+01f0	3b 0d 0a 7d                                        ;..}
