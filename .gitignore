@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.slnx
+*.user
+*.suo
+
+# C++ build
+*.exe
+*.obj
+*.pdb
