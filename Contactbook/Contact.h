@@ -6,5 +6,10 @@ struct Contact {
 };
 
 void addContact();
+void searchContact();
+void deleteContact();
 void showAllContacts();
 void showMenu();
+void saveContactsToFile();//保存到文件
+void loadContactsFromFile();//从文件读取
+void saveContactsToFile2();
