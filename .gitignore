@@ -11,3 +11,6 @@ Release/
 *.exe
 *.obj
 *.pdb
+# Local user data
+contacts.txt
+**/contacts.txt

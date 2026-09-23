@@ -103,7 +103,7 @@ void saveContactsToFile() {
 }
 
 void loadContactsFromFile() {
-	std::ifstream inFile("contact.txt");
+	std::ifstream inFile("contacts.txt");
 	if (!inFile) {
 		return;
 	}
@@ -114,17 +114,4 @@ void loadContactsFromFile() {
 	}
 	inFile.close();
 	std::cout << "已加载本地数据" << std::endl;
-}
-
-void saveContactsToFile2() {
-	std::ofstream outFile("contacts.txt");
-	if (!outFile) {
-		std::cout << "保存文件失败" << std::endl;
-		return;
-	}
-
-	for (int i = 0;i < contacts.size();i++) {
-		outFile << contacts[i].name << " " << contacts[i].phone << std::endl;
-	}
-	outFile.close();
 }
